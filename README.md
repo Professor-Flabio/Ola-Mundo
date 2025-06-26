@@ -1,2 +1,2 @@
-# Olá, Mundo!
+# Curso de javascript
 Primeiro repositorio
